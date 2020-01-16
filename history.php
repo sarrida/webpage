@@ -146,14 +146,14 @@
 
                 <div class="col-md-12 mb-4">
                     <h2 class="h4">Academic services</h2>
-                    <p style="text-indent:2.5em;">
-                        <p style="text-indent:2.5em;"> The services provided for the general public include both
-                            academic and professional ones in health promotion, disease prevention and treatment and
-                            rehabilitation based on the principles of Thai traditional medicine. We also provide free
-                            academic services to the society and offer various TTM courses (Thai massage, formulation of
-                            herbal inhaler, etc.) to the public. In addition, we also assist in conducting research
-                            activities as well as create innovative projects for both the government, private agencies
-                            and community enterprise.</p>
+
+                    <p style="text-indent:2.5em;"> The services provided for the general public include both
+                        academic and professional ones in health promotion, disease prevention and treatment and
+                        rehabilitation based on the principles of Thai traditional medicine. We also provide free
+                        academic services to the society and offer various TTM courses (Thai massage, formulation of
+                        herbal inhaler, etc.) to the public. In addition, we also assist in conducting research
+                        activities as well as create innovative projects for both the government, private agencies
+                        and community enterprise.</p>
 
                 </div>
             </div>
