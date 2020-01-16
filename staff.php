@@ -37,11 +37,9 @@
       <div id="particles-js"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
-          <div class="col-md-9 ftco-animate text-center fadeInUp ftco-animated" data-scrollax=" properties: { translateY: '70%' }" style="transform: translateZ(0px) translateY(0%);">
-            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }" style="opacity: 1;transform: translateZ(0px) translateY(-250%);">Faculty of Traditional Thai Medicine</h1>
-            <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }" style="opacity: 1;transform: translateZ(0px) translateY(-400%);">
-              Prince of Songkla University
-            </p>
+          <div class="col-md-9 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
+            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.php">Home</a></span> <span>Staff</span></p>
+            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Staff</h1>
           </div>
         </div>
       </div>
@@ -130,7 +128,7 @@
       <div class="container bg-light">
         <div class="row d-flex mb-5 contact-info">
           <div class="col-md-12 mb-4">
-            <h2 class="h4">Events</h2>
+            <h2 class="h4">Staff</h2>
           </div>
       </div>
     </section>
