@@ -47,93 +47,117 @@
       </div>
     </div>
 
-    <section class="ftco-section contact-section ftco-degree-bg">
-      
+  <section class="ftco-section contact-section ftco-degree-bg">   
     <div class="container">
         <div class="row ftco-animate">
           <div class="col-md-12">
             <div class="carousel-testimony owl-carousel ftco-owl">
+
+            <!-- news 1 -->
               <div class="item text-center">
-                <div class="testimony-wrap p-4 pb-5">
-                  <div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
+                <div class="testimony-wrap p-1 pb-2">
+                  <a href="video.php" class="block-20" style="background-image: url(images/image1.jpg);">
+                  </a>
+                  <br>
                   <div class="text">
-                    <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Dennis Green</p>
-                    <span class="position">Marketing Manager</span>
+                    <p class="mb-12">The Faculty of Traditional Thai Medicine Introduction Video</p>
                   </div>
                 </div>
               </div>
+
+              <!-- news 2 -->
               <div class="item text-center">
-                <div class="testimony-wrap p-4 pb-5">
-                  <div class="user-img mb-4" style="background-image: url(images/person_2.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
+                <div class="testimony-wrap p-1 pb-2">
+                  <a href="undergraduate.php" class="block-20" style="background-image: url(images/image2.jpg);">
+                  </a>
+                  <br>
                   <div class="text">
-                    <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Dennis Green</p>
-                    <span class="position">Interface Designer</span>
+                    <p class="mb-12">What you learn in Traditional Thai Medicine</p>
                   </div>
                 </div>
               </div>
+
+              <!-- news 3 -->
               <div class="item text-center">
-                <div class="testimony-wrap p-4 pb-5">
-                  <div class="user-img mb-4" style="background-image: url(images/person_3.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
+                <div class="testimony-wrap p-1 pb-2">
+                  <a href="hospital.php" class="block-20" style="background-image: url(images/image3.jpg);">
+                  </a>
+                  <br>
                   <div class="text">
-                    <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Dennis Green</p>
-                    <span class="position">UI Designer</span>
+                    <p class="mb-12">Thai massage is the ultimate relaxation</p>
                   </div>
                 </div>
               </div>
+
+              <!-- news 4 -->
               <div class="item text-center">
-                <div class="testimony-wrap p-4 pb-5">
-                  <div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
+                <div class="testimony-wrap p-1 pb-2">
+                  <a href="research.php" class="block-20" style="background-image: url(images/image4.jpg);">
+                  </a>
+                  <br>
                   <div class="text">
-                    <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Dennis Green</p>
-                    <span class="position">Web Developer</span>
+                    <p class="mb-12">Research on Thai Traditional Medicine</p>
                   </div>
                 </div>
               </div>
-              <div class="item text-center">
-                <div class="testimony-wrap p-4 pb-5">
-                  <div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
-                  <div class="text">
-                    <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Dennis Green</p>
-                    <span class="position">System Analytics</span>
-                  </div>
-                </div>
-              </div>
-            </div>
+
           </div>
         </div>
       </div>
+      <!-- events -->
       <div class="container bg-light">
         <div class="row d-flex mb-5 contact-info">
           <div class="col-md-12 mb-4">
-            <h2 class="h4">Events</h2>
+            <h2 class="h2">Events</h2>
+          </div>
+            <table width="100%" border="0">
+              <tbody>
+                <tr style="height:200px"><td valign="top"><img src="uploads/260956.jpg" align="left" border="1" width="200" height="120"></td>
+                  <td valign="top" style="padding:5px 0 0 10px"><strong>Visitors from Kunming Medical University</strong>
+                    <div align="justify" style="text-indent:2.5em;">Two medical bachelor students from Kunming Medical University, P. R. China, led by Assoc. Prof . Long Rong, Vice Dean of School of Basic Medicine and Ms. Li Juan,
+                      Teacher for Student Affairs of School of Basic Medicine, visited the Faculty of Traditional Thai Medicine (FTTM) under the MOU between ou...<a href="page1.php"><i>Read more</i></a>
+                    </div>
+                  </td>
+                </tr>
+                
+                <tr style="height:200px"><td valign="top"><img src="uploads/china8-56.JPG" align="left" border="1" width="200" height="120"></td>
+                  <td valign="top" style="padding:5px 0 0 10px"><strong>Visitors from Jiangxi University of Science and Technology (JUST)</strong>
+                    <div align="justify" style="text-indent:2.5em;">On August 8, 2013, the PSU Faculty of Traditional Thai Medicine, Miss Rattanavilai Thawornsuwon , an International Affair Officer and Miss Supannika Jaisaman,
+                      Traditional Thai Medicine Doctor, expressed their warmth and hospitality to a group of students and staff  from Jiangxi University of...<a href="page2.php"><i>Read more</i></a>
+                    </div>
+                  </td>
+                </tr>
+                
+                <tr style="height:200px"><td valign="top"><img src="uploads/IMG_0156.JPG" align="left" border="1" width="200" height="120"></td>
+                  <td valign="top" style="padding:5px 0 0 10px"><strong>Lecturers and Students from JXNU visit TTM</strong>
+			              <div align="justify" style="text-indent:2.5em;">TTM received a group of visitors from Jiangxi Normal University (JXNU), P.R. China in January 29, 2013. Two lecturers and ten students visited TTM for half day 
+                      under the staff and students exchange program between our universities. Our 12 Chinese guests were warmly welcomed at the faculty by Mis...<a href="page3.php"><i>Read more</i></a>
+                    </div>
+                  </td>
+                </tr>
+                
+                <tr style="height:200px"><td valign="top"><img src="uploads/chain55.GIF" align="left" border="1" width="200" height="120"></td>
+                  <td valign="top" style="padding:5px 0 0 10px"><strong>Visitors from Tinan Bian China Travel Union Company Limited</strong>
+			              <div align="justify" style="text-indent:2.5em;">On March 06, 2012, Dr.Sasitorn Chusri, Assistant Dean for Research and International Affairs and Miss Rattanavilai Thawornsuwon, an International Affair officer
+                      at Faculty of Traditional Thai Medicine, gave a warm welcome to 2 representatives from China Travel Union Company Limited from Chin...<a href="page4.php"><i>Read more</i></a>
+                    </div>
+                  </td>
+                </tr>
+                
+                <tr style="height:200px"><td valign="top"><img src="uploads/IMG_0014.JPG" align="left" border="1" width="200" height="120"></td>
+                  <td valign="top" style="padding:5px 0 0 10px"><strong>Visitors from Yunnan Provincial Hospital of Traditional Chinese Medicine</strong>
+			              <div align="justify" style="text-indent:2.5em;"> The faculty of Traditional Thai Medicine received a visit of 15 staff members from Yunnan Provincial Hospital of Traditional Chinese Medicine 
+                      accompanied by Assoc. Prof. Wimonrat Chongcharean from faculty of Nursing on December 2, 2011. The objectives of their visit were to learn more about ...<a href="page5.php"><i>Read more</i></a>
+                    </div>
+                  </td>
+                </tr>
+              
+              </tbody>
+            </table>
           </div>
       </div>
-    </section>
+    </div>
+  </section>
 
 
     <!-- footer -->
