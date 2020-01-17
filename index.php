@@ -112,6 +112,7 @@
           </div>
             <table width="100%" border="0">
               <tbody>
+              <!-- events1  -->
                 <tr style="height:200px"><td valign="top"><img src="uploads/260956.jpg" align="left" border="1" width="200" height="120"></td>
                   <td valign="top" style="padding:5px 0 0 10px"><strong>Visitors from Kunming Medical University</strong>
                     <div align="justify" style="text-indent:2.5em;">Two medical bachelor students from Kunming Medical University, P. R. China, led by Assoc. Prof . Long Rong, Vice Dean of School of Basic Medicine and Ms. Li Juan,
@@ -119,7 +120,7 @@
                     </div>
                   </td>
                 </tr>
-                
+                <!-- events2 -->
                 <tr style="height:200px"><td valign="top"><img src="uploads/china8-56.JPG" align="left" border="1" width="200" height="120"></td>
                   <td valign="top" style="padding:5px 0 0 10px"><strong>Visitors from Jiangxi University of Science and Technology (JUST)</strong>
                     <div align="justify" style="text-indent:2.5em;">On August 8, 2013, the PSU Faculty of Traditional Thai Medicine, Miss Rattanavilai Thawornsuwon , an International Affair Officer and Miss Supannika Jaisaman,
@@ -127,7 +128,7 @@
                     </div>
                   </td>
                 </tr>
-                
+                <!-- events3 -->
                 <tr style="height:200px"><td valign="top"><img src="uploads/IMG_0156.JPG" align="left" border="1" width="200" height="120"></td>
                   <td valign="top" style="padding:5px 0 0 10px"><strong>Lecturers and Students from JXNU visit TTM</strong>
 			              <div align="justify" style="text-indent:2.5em;">TTM received a group of visitors from Jiangxi Normal University (JXNU), P.R. China in January 29, 2013. Two lecturers and ten students visited TTM for half day 
@@ -135,7 +136,7 @@
                     </div>
                   </td>
                 </tr>
-                
+                <!-- events4 -->
                 <tr style="height:200px"><td valign="top"><img src="uploads/chain55.GIF" align="left" border="1" width="200" height="120"></td>
                   <td valign="top" style="padding:5px 0 0 10px"><strong>Visitors from Tinan Bian China Travel Union Company Limited</strong>
 			              <div align="justify" style="text-indent:2.5em;">On March 06, 2012, Dr.Sasitorn Chusri, Assistant Dean for Research and International Affairs and Miss Rattanavilai Thawornsuwon, an International Affair officer
@@ -143,7 +144,7 @@
                     </div>
                   </td>
                 </tr>
-                
+                <!-- events5 -->
                 <tr style="height:200px"><td valign="top"><img src="uploads/IMG_0014.JPG" align="left" border="1" width="200" height="120"></td>
                   <td valign="top" style="padding:5px 0 0 10px"><strong>Visitors from Yunnan Provincial Hospital of Traditional Chinese Medicine</strong>
 			              <div align="justify" style="text-indent:2.5em;"> The faculty of Traditional Thai Medicine received a visit of 15 staff members from Yunnan Provincial Hospital of Traditional Chinese Medicine 
