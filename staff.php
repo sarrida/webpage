@@ -48,7 +48,7 @@
     <section class="ftco-section contact-section ftco-degree-bg">
       
     <div class="container">
-        <div class="row ftco-animate">
+        <!-- <div class="row ftco-animate">
           <div class="col-md-12">
             <div class="carousel-testimony owl-carousel ftco-owl">
               <div class="item text-center">
@@ -123,7 +123,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="container bg-light">
         <div class="row d-flex mb-5 contact-info">

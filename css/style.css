@@ -7289,6 +7289,24 @@ a {
   a:hover {
     text-decoration: none;
     color: #3be2ad; }
+  .button_like .button:focus ,
+  .button_like .button:hover  {
+    border-color: rgba(29,161,242,1.00);
+  }
+  .unlike > i.icon.twitter {
+    color: rgba(29,161,242,1.00);
+    ;
+}
+    /* --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8; */
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
