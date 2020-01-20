@@ -16,11 +16,10 @@
                     data-scrollax=" properties: { translateY: '70%' }"
                     style="transform: translateZ(0px) translateY(0%);">
                     <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"
-                        style="opacity: 1;transform: translateZ(0px) translateY(-250%);">Faculty of Traditional Thai
-                        Medicine</h1>
+                        style="opacity: 1;transform: translateZ(0px) translateY(-250%);"><b>The Faculty of Traditional Thai Medicine</b></h1>
                     <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"
                         style="opacity: 1;transform: translateZ(0px) translateY(-400%);">
-                        Prince of Songkla University
+                        <b>Prince of Songkla University</b>
                     </p>
                 </div>
             </div>
