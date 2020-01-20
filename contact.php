@@ -25,11 +25,11 @@
             <div class="row d-flex mb-5 contact-info">
                 <div class="col-md-12 mb-4">
                     <h2 class="h4">Contact</h2>
-                </div>
-                <div class="row block-9">
+                    <div class="row block-9">
                     <div class="col-md-12" align="center">
                         <iframe width="1010" height="450" frameborder="0" style="border:0;" allowfullscreen="" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1309.4402055737187!2d100.49866605957797!3d7.005928305711751!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d29bade131c85%3A0x8e26e404a10c1d18!2z4LiE4LiT4Liw4LiB4Liy4Lij4LiI4Lix4LiU4LiB4Liy4Lij4Liq4Li04LmI4LiH4LmB4Lin4LiU4Lil4LmJ4Lit4LihIOC4oeC4q-C4suC4p-C4tOC4l-C4ouC4suC4peC4seC4ouC4quC4h-C4guC4peC4suC4meC4hOC4o-C4tOC4meC4l-C4o-C5jA!5e0!3m2!1sth!2sth!4v1579487813224!5m2!1sth!2sth"></iframe>
                     </div>
+                </div>
                 </div>
                 <div class="row block-12">
                 <div class="col-md-12 pr-md-12">
@@ -47,9 +47,6 @@
                 <div class="col-md-12">
                     <h6><span>Email &nbsp;:&nbsp;</span> <a href="mailto:ttmed.psu@gmail.com">ittmed.psu@gmail.com</a></h6>
                     <h6 style="text-indent:4.4em;" ><a href="mailto:ttmed@group.psu.ac.th">ttmed@group.psu.ac.th</a></h6>
-                </div>
-                <div class="col-md-12">
-                    <h6><span>Website &nbsp;:&nbsp;</span> <a href="#">yoursite.com</a></h6>
                 </div>
                 <div class="col-md">
                     <div class="ftco-footer-widget mb-6" style="text-indent:2.5em;">
