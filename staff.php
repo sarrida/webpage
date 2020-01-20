@@ -22,7 +22,6 @@
     </div>
 
     <section class="ftco-section contact-section ftco-degree-bg">
-<<<<<<< HEAD
       
     <div class="container">
         <!-- <div class="row ftco-animate">
@@ -96,92 +95,8 @@
                     <p class="name">Dennis Green</p>
                     <span class="position">System Analytics</span>
                   </div>
-=======
-
-        <div class="container">
-            <div class="row ftco-animate">
-                <div class="col-md-12">
-                    <div class="carousel-testimony owl-carousel ftco-owl">
-                        <div class="item text-center">
-                            <div class="testimony-wrap p-4 pb-5">
-                                <div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
-                                    <span class="quote d-flex align-items-center justify-content-center">
-                                        <i class="icon-quote-left"></i>
-                                    </span>
-                                </div>
-                                <div class="text">
-                                    <p class="mb-5">Far far away, behind the word mountains, far from the countries
-                                        Vokalia and Consonantia, there live the blind texts.</p>
-                                    <p class="name">Dennis Green</p>
-                                    <span class="position">Marketing Manager</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item text-center">
-                            <div class="testimony-wrap p-4 pb-5">
-                                <div class="user-img mb-4" style="background-image: url(images/person_2.jpg)">
-                                    <span class="quote d-flex align-items-center justify-content-center">
-                                        <i class="icon-quote-left"></i>
-                                    </span>
-                                </div>
-                                <div class="text">
-                                    <p class="mb-5">Far far away, behind the word mountains, far from the countries
-                                        Vokalia and Consonantia, there live the blind texts.</p>
-                                    <p class="name">Dennis Green</p>
-                                    <span class="position">Interface Designer</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item text-center">
-                            <div class="testimony-wrap p-4 pb-5">
-                                <div class="user-img mb-4" style="background-image: url(images/person_3.jpg)">
-                                    <span class="quote d-flex align-items-center justify-content-center">
-                                        <i class="icon-quote-left"></i>
-                                    </span>
-                                </div>
-                                <div class="text">
-                                    <p class="mb-5">Far far away, behind the word mountains, far from the countries
-                                        Vokalia and Consonantia, there live the blind texts.</p>
-                                    <p class="name">Dennis Green</p>
-                                    <span class="position">UI Designer</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item text-center">
-                            <div class="testimony-wrap p-4 pb-5">
-                                <div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
-                                    <span class="quote d-flex align-items-center justify-content-center">
-                                        <i class="icon-quote-left"></i>
-                                    </span>
-                                </div>
-                                <div class="text">
-                                    <p class="mb-5">Far far away, behind the word mountains, far from the countries
-                                        Vokalia and Consonantia, there live the blind texts.</p>
-                                    <p class="name">Dennis Green</p>
-                                    <span class="position">Web Developer</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item text-center">
-                            <div class="testimony-wrap p-4 pb-5">
-                                <div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
-                                    <span class="quote d-flex align-items-center justify-content-center">
-                                        <i class="icon-quote-left"></i>
-                                    </span>
-                                </div>
-                                <div class="text">
-                                    <p class="mb-5">Far far away, behind the word mountains, far from the countries
-                                        Vokalia and Consonantia, there live the blind texts.</p>
-                                    <p class="name">Dennis Green</p>
-                                    <span class="position">System Analytics</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
->>>>>>> 03c5db88671203fb26a129b6aad6c3183a0d8984
                 </div>
             </div>
-<<<<<<< HEAD
           </div>
         </div> -->
       </div>
@@ -191,15 +106,6 @@
             <h2 class="h4">Staff</h2>
           </div>
       </div>
-=======
-        </div>
-        <div class="container bg-light">
-            <div class="row d-flex mb-5 contact-info">
-                <div class="col-md-12 mb-4">
-                    <h2 class="h4">Staff</h2>
-                </div>
-            </div>
->>>>>>> 03c5db88671203fb26a129b6aad6c3183a0d8984
     </section>
 
 

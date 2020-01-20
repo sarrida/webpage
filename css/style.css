@@ -2637,11 +2637,11 @@ input[type="button"].btn-block {
   .dropdown-item:hover, .dropdown-item:focus {
     color: #16181b;
     text-decoration: none;
-    background-color: #efac78; }
+    background-color: #ffff80; }
   .dropdown-item.active, .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #efac78; }
+    background-color: #ffff80; }
   .dropdown-item.disabled, .dropdown-item:disabled {
     color: #6c757d;
     background-color: transparent; }
@@ -7285,10 +7285,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #3be2ad; }
+  color: #d7ae1c; }
   a:hover {
     text-decoration: none;
-    color: #3be2ad; }
+    color: #d7ae1c; }
   .button_like .button:focus ,
   .button_like .button:hover  {
     border-color: rgba(29,161,242,1.00);
@@ -7315,7 +7315,7 @@ h1, h2, h3, h4, h5,
   font-weight: 400; }
 
 .text-primary {
-  color: #3be2ad !important; }
+  color: #d7ae1c !important; }
 
 .ftco-navbar-light {
   background: transparent !important;
@@ -7403,10 +7403,10 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1); }
     .ftco-navbar-light.scrolled .nav-item.active > a {
-      color: #3be2ad !important; }
+      color: #d7ae1c !important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
       color: #fff !important;
-      background: #bf7747e1;
+      background: #d7ae1c;
       border: none !important;
       padding-top: 0.5rem !important;
       padding-bottom: .5rem !important;
@@ -7472,21 +7472,19 @@ h1, h2, h3, h4, h5,
   z-index: 0; }
   .hero-wrap .overlay {
     position: absolute;
-    /* width: 100%;
-    height: 50%; */
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
     content: '';
     opacity: .97;
-    background: #bf7747e1;
-    background: -moz-linear-gradient(45deg, #bf7747e1 0%, #3be2ad 100%);
-    background: -webkit-gradient(left bottom, right top, color-stop(0%, #bf7747e1), color-stop(100%, #3be2ad));
-    background: -webkit-linear-gradient(45deg, #bf7747e1 0%, #3be2ad 100%);
-    background: -o-linear-gradient(45deg, #bf7747e1 0%, #3be2ad 100%);
-    background: -ms-linear-gradient(45deg, #bf7747e1 0%, #3be2ad 100%);
-    background: linear-gradient(45deg, #bf7747e1 0%, #3be2ad 100%);
+    background: #d7ae1c;
+    background: -moz-linear-gradient(45deg, #d7ae1c 0%, #ffff80 100%);
+    background: #e0d208e1radient(left bottom, right top, color-stop(0%, #d7ae1c), color-stop(100%, #ffff80));
+    background: -webkit-linear-gradient(45deg, #d7ae1c 0%, #ffff80 100%);
+    background: -o-linear-gradient(45deg, #d7ae1c 0%, #ffff80 100%);
+    background: -ms-linear-gradient(45deg, #d7ae1c 0%, #ffff80 100%);
+    background: linear-gradient(45deg, #d7ae1c 0%, #ffff80 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#448ef6', endColorstr='#af05a9', GradientType=1 ); }
 
 #particles-js {
@@ -8136,7 +8134,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 16px;
-  background: #bf7747e1;
+  background: #d7ae1c;
   padding: 6em 0 4em 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
@@ -8319,7 +8317,7 @@ textarea.form-control {
       right: 0;
       width: 40px;
       height: 40px;
-      background: #3be2ad;
+      background: #d7ae1c;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       -ms-border-radius: 50%;

@@ -36,8 +36,7 @@
                         <!-- news 1 -->
                         <div class="item text-center">
                             <div class="testimony-wrap p-1 pb-2">
-                                <a href="video.php" class="block-20" style="background-image: url(images/image1.jpg);">
-                                </a>
+                                <a href="video.php" class="block-20" style="background-image: url(images/image1.jpg);"></a>
                                 <br>
                                 <div class="text">
                                     <p class="mb-12">The Faculty of Traditional Thai Medicine Introduction Video</p>
@@ -48,9 +47,7 @@
                         <!-- news 2 -->
                         <div class="item text-center">
                             <div class="testimony-wrap p-1 pb-2">
-                                <a href="undergraduate.php" class="block-20"
-                                    style="background-image: url(images/image2.jpg);">
-                                </a>
+                                <a href="undergraduate.php" class="block-20" style="background-image: url(images/image2.jpg);"></a>
                                 <br>
                                 <div class="text">
                                     <p class="mb-12">What you learn in Traditional Thai Medicine</p>
@@ -61,9 +58,7 @@
                         <!-- news 3 -->
                         <div class="item text-center">
                             <div class="testimony-wrap p-1 pb-2">
-                                <a href="hospital.php" class="block-20"
-                                    style="background-image: url(images/image3.jpg);">
-                                </a>
+                                <a href="hospital.php" class="block-20" style="background-image: url(images/image3.jpg);"></a>
                                 <br>
                                 <div class="text">
                                     <p class="mb-12">Thai massage is the ultimate relaxation</p>
